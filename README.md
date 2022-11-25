@@ -1,2 +1,2 @@
-# My Devoloper Portfolio
+# Aviral Dhingra (Devoloper Portfolio)
 Link : https://aviraldhingra.github.io/
