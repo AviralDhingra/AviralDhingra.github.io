@@ -1,4 +1,6 @@
 # Aviral Dhingra (Devoloper Portfolio)
-Link : https://aviraldhingra.github.io/
+**Link**
+https://aviraldhingra.github.io/
 
-Note : I am yet to work on the projects section (ignore the default stock images)
+**Note**
+I am yet to work on the projects section (ignore the default stock images)
